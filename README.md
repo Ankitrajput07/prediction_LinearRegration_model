@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ankitrajput07/prediction_LinearRegration_model.git
 cd your-repo-name
 
 Install the required Python packages:
